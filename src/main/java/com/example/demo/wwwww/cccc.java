@@ -12,5 +12,6 @@ public class cccc {
 
     public static void main(String[] args) {
         String string = new String();
+        System.out.println("22222222222222222222222222222222");
     }
 }
