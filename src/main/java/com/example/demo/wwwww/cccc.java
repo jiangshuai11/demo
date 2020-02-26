@@ -1,5 +1,7 @@
 package com.example.demo.wwwww;
 
+import com.sun.org.apache.xpath.internal.operations.String;
+
 /**
  * @program: demo
  * @description:
@@ -9,6 +11,6 @@ package com.example.demo.wwwww;
 public class cccc {
 
     public static void main(String[] args) {
-
+        String string = new String();
     }
 }
